@@ -1,0 +1,11 @@
+- La norme en c++ va généralement vouloir que l'on mette un '_' devant le nom des propriétés private
+- Take damage mal sécurisé (overflow)
+- Pareil pour le heal
+- Pour le Getter d'un booléen on va généralement généralement nommer le getter "isNomDuBooléen" pas "getIsNomDuBooléen"
+- Écrit en CamelCase https://fr.wikipedia.org/wiki/Camel_case avec la première lettre en minuscule, aussi vien pour les variables que pour les méthods
+- Manque de messages pour bien comprendre ce qu'il se passe pendant le combat
+
++ Tout est bien séparé dans plusieurs fichiers
++ Le code est plutot bien uniforme, c'est écrit correctmenent
+
+Utilsation de ChatGPT ?
