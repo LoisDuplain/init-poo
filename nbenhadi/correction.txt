@@ -1,0 +1,3 @@
++/- Au début je pensais que tu m'insultais dans le nom de tes fichiers en ayant inversé le D et le P dans LoisDP, j'ai bien rit
+
+- Take damage et heal mal sécurisé
