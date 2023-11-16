@@ -1,0 +1,8 @@
+- Tout dans un seul fichier
+- On va préférer return pour bloquer le code le plus tot possible plutot que d'avoir des if de 50 lignes
+- Code pour heal mal sécurisé
+- La norme en c++ va généralement vouloir que l'on mette un '_' devant le nom des propriétés private
+
++ Code pour take damage bien sécurisé
+
+ChatGPT à quel point ?
